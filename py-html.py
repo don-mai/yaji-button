@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.4
+#!/usr/local/bin/python3
 
 # 日本語を扱うために必要な設定 --- (*1)
 import os, sys, io, cgi
